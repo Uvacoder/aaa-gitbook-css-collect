@@ -9,6 +9,7 @@
   * [Foundation](frameworks/foundation.md)
 * [Media queries](media-queries.md)
 * [Position](position.md)
+* [Reset](reset.md)
 * [SASS](sass.md)
 * [Typography](typography.md)
 
