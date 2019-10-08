@@ -13,5 +13,6 @@
 * [Position](position.md)
 * [Reset](reset.md)
 * [SASS](sass.md)
+* [Scroll snapping](scroll-snap.md)
 * [Typography](typography.md)
 
