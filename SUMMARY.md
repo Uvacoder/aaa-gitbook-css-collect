@@ -2,6 +2,8 @@
 
 * [Pages](README.md)
 * [Box modal](box-modal.md)
+* [Colors](colors/README.md)
+  * [Name that color](colors/name-that-color.md)
 * [CSS grid](css-grid.md)
 * [Flexbox](flexbox.md)
 * [Frameworks](frameworks/README.md)
