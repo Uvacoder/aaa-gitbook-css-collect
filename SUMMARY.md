@@ -6,6 +6,7 @@
   * [Name that color](colors/name-that-color.md)
 * [CSS grid](css-grid.md)
 * [Flexbox](flexbox.md)
+* [Focus style](focus-style.md)
 * [Frameworks](frameworks/README.md)
   * [Bootstrap](frameworks/bootstrap.md)
   * [Foundation](frameworks/foundation.md)
