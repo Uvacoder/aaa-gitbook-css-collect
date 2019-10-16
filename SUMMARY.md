@@ -9,7 +9,6 @@
 * [CSS grid](css-grid.md)
 * [Flexbox](flexbox/README.md)
   * [Flexbox30](flexbox/flexbox30.md)
-* [Focus style](focus-style.md)
 * [Frameworks](frameworks/README.md)
   * [Bootstrap](frameworks/bootstrap.md)
   * [Foundation](frameworks/foundation.md)
@@ -18,5 +17,8 @@
 * [Reset](reset.md)
 * [SASS](sass.md)
 * [Scroll snapping](scroll-snap.md)
+* [States](states/README.md)
+  * [Focus style](states/focus-style.md)
+  * [Hover, focus, active](states/hover-focus-active.md)
 * [Typography](typography.md)
 
