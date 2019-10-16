@@ -13,6 +13,7 @@
   * [Bootstrap](frameworks/bootstrap.md)
   * [Foundation](frameworks/foundation.md)
 * [Generators](generators/README.md)
+  * [Clean CSS](generators/clean-css.md)
   * [CSS3 Generator](generators/css3-generator.md)
   * [Cubic bezier](generators/cubic-bezier.md)
 * [Media queries](media-queries.md)
