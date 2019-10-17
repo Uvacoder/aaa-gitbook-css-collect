@@ -1,6 +1,8 @@
 # Table of contents
 
 * [Pages](README.md)
+* [Animation](animation/README.md)
+  * [Loaders](animation/loaders.md)
 * [Best Practices](best-practices/README.md)
   * [5 principles](best-practices/5-principles.md)
 * [Box modal](box-modal.md)
