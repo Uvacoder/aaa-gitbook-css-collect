@@ -26,6 +26,7 @@
 * [Scroll snapping](scroll-snap.md)
 * [Selectors](selectors/README.md)
   * [CSS diner](selectors/css-diner.md)
+  * [MDN reference](selectors/mdn-reference.md)
 * [States](states/README.md)
   * [Focus style](states/focus-style.md)
   * [Hover, focus, active](states/hover-focus-active.md)
