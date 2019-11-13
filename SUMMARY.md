@@ -7,6 +7,7 @@
 * [Best Practices](best-practices/README.md)
   * [5 principles](best-practices/5-principles.md)
 * [Box modal](box-modal.md)
+* [Buttons](buttons.md)
 * [Colors](colors/README.md)
   * [Name that color](colors/name-that-color.md)
 * [CSS grid](css-grid.md)
