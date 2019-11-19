@@ -11,6 +11,7 @@
 * [Colors](colors/README.md)
   * [Name that color](colors/name-that-color.md)
 * [CSS grid](css-grid.md)
+* [Education](todo.md)
 * [Flexbox](flexbox/README.md)
   * [Flexbox30](flexbox/flexbox30.md)
 * [Frameworks](frameworks/README.md)
@@ -34,7 +35,6 @@
 * [States](states/README.md)
   * [Focus style](states/focus-style.md)
   * [Hover, focus, active](states/hover-focus-active.md)
-* [Todo](todo.md)
 * [Transition](transition.md)
 * [Typography](typography.md)
 
