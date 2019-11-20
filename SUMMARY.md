@@ -3,6 +3,7 @@
 * [Pages](README.md)
 * [Animation](animation/README.md)
   * [Cubic Bezier](animation/cubic-bezier.md)
+  * [Fadein](animation/fadein.md)
   * [Loaders](animation/loaders.md)
 * [Best Practices](best-practices/README.md)
   * [5 principles](best-practices/5-principles.md)
