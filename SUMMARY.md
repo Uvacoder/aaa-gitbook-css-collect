@@ -2,9 +2,7 @@
 
 * [Pages](README.md)
 * [Animation](animation/README.md)
-  * [Cubic Bezier](animation/cubic-bezier.md)
   * [Fade](animation/fadein.md)
-  * [Loaders](animation/loaders.md)
 * [Best Practices](best-practices.md)
 * [Box modal](box-modal.md)
 * [Buttons](buttons.md)
