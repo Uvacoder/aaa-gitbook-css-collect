@@ -21,6 +21,7 @@
   * [Clean CSS](generators/clean-css.md)
   * [CSS3 Generator](generators/css3-generator.md)
   * [Cubic bezier](generators/cubic-bezier.md)
+* [Grid](grid.md)
 * [Libraries](libraries.md)
 * [Media queries](media-queries.md)
 * [Position](position.md)
