@@ -4,6 +4,7 @@
 
 |  | Start | End |
 | :--- | :--- | :--- |
+| [I &lt;3 the cascade!](https://gomakethings.com/i-3-the-cascade) | 12/2/2019 | 12/2/2019 |
 | [A quick introduction to Block Element Modifiers \(BEM\)](https://medium.com/free-code-camp/a-quick-introduction-to-block-element-modifiers-bem-9df46d29b64c) | 11/29/2019 |  |
 | [How to better organize your CSS architecture with OOCSS, BEM, & SMACSS](https://medium.com/free-code-camp/how-to-better-organize-your-css-architecture-with-oocss-bem-smacss-65e8a5c207c0) | 11/28/2019 |  |
 | [Simplify Styling with Functional CSS](https://blog.prototypr.io/simplify-styling-with-functional-css-7b3e4edc2243) | 11/23/2019 |  |
