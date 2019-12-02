@@ -4,6 +4,7 @@
 
 |  | Start | End |
 | :--- | :--- | :--- |
+| [The Thought Process Behind a Flexbox Layout](https://css-tricks.com/the-thought-process-behind-a-flexbox-layout/) | 12/2/2019 | 12/2/2019 |
 | [Animations for developers](https://dev.to/iamschulz/animation-for-developers-c4b) | 12/2/2019 |  |
 | [I &lt;3 the cascade!](https://gomakethings.com/i-3-the-cascade) | 12/2/2019 | 12/2/2019 |
 | [A quick introduction to Block Element Modifiers \(BEM\)](https://medium.com/free-code-camp/a-quick-introduction-to-block-element-modifiers-bem-9df46d29b64c) | 11/29/2019 |  |
