@@ -4,6 +4,7 @@
 
 |  | Start | End |
 | :--- | :--- | :--- |
+| [The Most Important CSS Concept to Learn](https://medium.com/free-code-camp/the-most-important-css-concept-to-learn-8e929c944a19) | 12/3/2019 | 12/3/2019 |
 | [The Thought Process Behind a Flexbox Layout](https://css-tricks.com/the-thought-process-behind-a-flexbox-layout/) | 12/2/2019 | 12/2/2019 |
 | [Animations for developers](https://dev.to/iamschulz/animation-for-developers-c4b) | 12/2/2019 |  |
 | [I &lt;3 the cascade!](https://gomakethings.com/i-3-the-cascade) | 12/2/2019 | 12/2/2019 |
