@@ -23,6 +23,7 @@
 * [Libraries](libraries.md)
 * [Media queries](media-queries.md)
 * [Position](position.md)
+* [Pseudo](pseudo.md)
 * [Reset](reset.md)
 * [SASS](sass/README.md)
   * [Mixins](sass/mixins.md)
