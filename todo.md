@@ -4,6 +4,7 @@
 
 |  | Start | End |
 | :--- | :--- | :--- |
+| [How to create beautiful Shapes in CSS — A Teardown of 3 Shapes, purely made in CSS](https://itnext.io/how-to-create-beautiful-shapes-in-css-a-teardown-of-3-shapes-purely-made-in-css-c3ac7cb99c4) | 12/6/2019 | 12/6/2019 |
 | [Switch it up with CSS custom properties](https://css.christmas/2019/2) | 12/4/2019 | 12/4/2019 |
 | [The Most Important CSS Concept to Learn](https://medium.com/free-code-camp/the-most-important-css-concept-to-learn-8e929c944a19) | 12/3/2019 | 12/3/2019 |
 | [The Thought Process Behind a Flexbox Layout](https://css-tricks.com/the-thought-process-behind-a-flexbox-layout/) | 12/2/2019 | 12/2/2019 |
