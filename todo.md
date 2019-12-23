@@ -4,7 +4,7 @@
 
 |  | Start | End |
 | :--- | :--- | :--- |
-| [CSS Variables and How To Use Them](https://medium.com/@shahedn/css-variables-and-how-to-use-them-bd9724cb6566) | 12/23/2019 |  |
+| [CSS Variables and How To Use Them](https://medium.com/@shahedn/css-variables-and-how-to-use-them-bd9724cb6566) | 12/23/2019 | 12/23/2019 |
 | [Introduction to nth-child CSS Selector](https://medium.com/better-programming/introduction-to-nth-child-css-selector-9a94c9f00268) | 12/22/2019 |  |
 | [How to create beautiful Shapes in CSS — A Teardown of 3 Shapes, purely made in CSS](https://itnext.io/how-to-create-beautiful-shapes-in-css-a-teardown-of-3-shapes-purely-made-in-css-c3ac7cb99c4) | 12/6/2019 | 12/6/2019 |
 | [Switch it up with CSS custom properties](https://css.christmas/2019/2) | 12/4/2019 | 12/4/2019 |
