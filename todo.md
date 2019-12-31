@@ -4,6 +4,7 @@
 
 |  | Start | End |
 | :--- | :--- | :--- |
+| [Chrome DevTools: Copy and extract all the CSS for an element on the page](https://umaar.com/dev-tips/201-extract-element-styles/) | 12/31/2019 | 12/31/2019 |
 | [Introduction to Chrome DevTools for CSS](https://medium.com/better-programming/introduction-to-chrome-devtools-for-css-8d0f90ac860b) | 12/28/2019 |  |
 | [CSS Variables and How To Use Them](https://medium.com/@shahedn/css-variables-and-how-to-use-them-bd9724cb6566) | 12/23/2019 | 12/23/2019 |
 | [Introduction to nth-child CSS Selector](https://medium.com/better-programming/introduction-to-nth-child-css-selector-9a94c9f00268) | 12/22/2019 |  |
