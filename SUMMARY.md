@@ -13,7 +13,6 @@
   * [Flexbox30](flexbox/flexbox30.md)
 * [Frameworks](frameworks.md)
 * [Generators](generators/README.md)
-  * [Clean CSS](generators/clean-css.md)
   * [CSS3 Generator](generators/css3-generator.md)
   * [Cubic bezier](generators/cubic-bezier.md)
 * [Grid](grid.md)
