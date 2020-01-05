@@ -2,6 +2,7 @@
 
 |  |  |  |
 | :--- | :--- | :--- |
+| [CSS Flexbox Fundamentals Visual Guide](https://medium.com/swlh/css-flexbox-fundamentals-visual-guide-1c467f480dac) | 1/5/2020 | 1/5/2020 |
 | [How I create a Contact Us form using Flexbox](https://medium.com/swlh/how-i-create-a-contact-us-form-using-flexbox-b9f6660d4c96) | 12/24/2019 | 12/24/2019 |
 
 ```css
