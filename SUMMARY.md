@@ -7,6 +7,7 @@
 * [Box modal](box-modal.md)
 * [Buttons](buttons.md)
 * [Colors](colors.md)
+* [Components](components.md)
 * [CSS grid](css-grid.md)
 * [Education](todo.md)
 * [Flexbox](flexbox/README.md)
