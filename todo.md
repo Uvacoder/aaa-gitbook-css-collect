@@ -4,6 +4,7 @@
 
 |  | Start | End |
 | :--- | :--- | :--- |
+| [Multi-line gradient links](https://zellwk.com/blog/multi-line-gradient-links/?ck_subscriber_id=420572458) | 1/22/2020 | 1/22/2020 |
 | [Utility-first CSS: Ridiculously fast front-end development for almost every design](https://blog.usejournal.com/utility-first-css-ridiculously-fast-front-end-development-for-almost-every-design-503130d8fefc) | 1/19/2020 | 1/19/2020 |
 | [Chrome DevTools: Copy and extract all the CSS for an element on the page](https://umaar.com/dev-tips/201-extract-element-styles/) | 12/31/2019 | 12/31/2019 |
 | [Introduction to Chrome DevTools for CSS](https://medium.com/better-programming/introduction-to-chrome-devtools-for-css-8d0f90ac860b) | 12/28/2019 |  |
