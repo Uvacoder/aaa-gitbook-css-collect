@@ -14,6 +14,7 @@
   * [Flexbox30](flexbox/flexbox30.md)
 * [Frameworks](frameworks.md)
 * [Generators](generators.md)
+* [Gradients](gradients.md)
 * [Grid](grid.md)
 * [Libraries](libraries.md)
 * [Media queries](media-queries.md)
