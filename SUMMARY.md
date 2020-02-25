@@ -24,7 +24,7 @@
 * [SASS](sass/README.md)
   * [Mixins](sass/mixins.md)
   * [Variables](sass/variables.md)
-* [Scroll snapping](scroll-snap.md)
+* [Scroll](scroll-snap.md)
 * [Selectors](selectors.md)
 * [States](states/README.md)
   * [Focus style](states/focus-style.md)
