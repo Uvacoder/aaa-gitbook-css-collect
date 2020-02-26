@@ -4,6 +4,7 @@
 
 |  | date |
 | :--- | :--- |
+| [Top 10 most deadly CSS mistakes made by new and experienced developers](http://pop.frontendweekly.co/2Ld8My?utm_campaign=Frontend%2BWeekly&utm_medium=email&utm_source=Frontend_Weekly_191) | 2/26 |
 | [Object oriented CSS](https://www.slideshare.net/stubbornella/object-oriented-css) | 2/13 |
 | [The CSS cascade \(or, how browsers resolve competing CSS styles\)](https://gomakethings.com/the-css-cascade-or-how-browsers-resolve-competing-css-styles/?mc_cid=24d422864f&mc_eid=e9174ba77f) | 1/24/2020 |
 | [Multi-line gradient links](https://zellwk.com/blog/multi-line-gradient-links/?ck_subscriber_id=420572458) | 1/22/2020 |
