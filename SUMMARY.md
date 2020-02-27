@@ -26,6 +26,7 @@
   * [Variables](sass/variables.md)
 * [Scroll](scroll-snap.md)
 * [Selectors](selectors.md)
+* [Specificity](specificity.md)
 * [States](states/README.md)
   * [Focus style](states/focus-style.md)
   * [Hover, focus, active](states/hover-focus-active.md)
