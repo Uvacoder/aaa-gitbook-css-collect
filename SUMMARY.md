@@ -3,6 +3,7 @@
 * [Pages](README.md)
 * [Animation](animation/README.md)
   * [Fade](animation/fadein.md)
+* [Background](background.md)
 * [Best Practices](best-practices.md)
 * [Box modal](box-modal.md)
 * [Buttons](buttons.md)
