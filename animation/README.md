@@ -2,6 +2,7 @@
 
 |  |  |
 | :--- | :--- |
+| [https://easings.netlify.com/](https://easings.netlify.com/) | 3/4 |
 | [The ultimate guide to proper use of animation in UX](https://uxdesign.cc/the-ultimate-guide-to-proper-use-of-animation-in-ux-10bd98614fa9) | 2/26 |
 | [10 of the best CSS animation libraries.](https://dev.to/weeb/10-of-the-best-css-animation-libraries-31d7) | 1/7/2020 |
 | [animatable](http://leaverou.github.io/animatable) | 12/3/2019 |
