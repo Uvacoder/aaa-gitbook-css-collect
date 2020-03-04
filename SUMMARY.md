@@ -6,6 +6,7 @@
 * [Background](background.md)
 * [Best Practices](best-practices.md)
 * [Box modal](box-modal.md)
+* [Box shadows](box-shadows.md)
 * [Buttons](buttons.md)
 * [Colors](colors.md)
 * [Components](components.md)
