@@ -18,6 +18,7 @@
 * [Generators](generators.md)
 * [Gradients](gradients.md)
 * [Grid](grid.md)
+* [Hover](hover.md)
 * [Libraries](libraries.md)
 * [Media queries](media-queries.md)
 * [Navigation](navigation.md)
