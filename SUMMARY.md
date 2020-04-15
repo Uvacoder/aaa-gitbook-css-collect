@@ -4,6 +4,7 @@
 * [Animation](animation/README.md)
   * [Fade](animation/fadein.md)
 * [Background](background.md)
+* [BEM](bem.md)
 * [Best Practices](best-practices.md)
 * [Box modal](box-modal.md)
 * [Box shadows](box-shadows.md)
