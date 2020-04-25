@@ -4,6 +4,7 @@
 
 |  |  |
 | :--- | :--- |
+| [https://css.gg/](https://css.gg/) | 4/25 |
 | [SVG Animation With Text Tutorial \| HTML CSS](https://www.youtube.com/watch?v=vJNVramny9k) | 4/11 |
 
 ```css
