@@ -26,6 +26,7 @@
 * [Position](position.md)
 * [Pseudo](pseudo.md)
 * [Reset](reset.md)
+* [Responsive](responsive.md)
 * [SASS](sass/README.md)
   * [Mixins](sass/mixins.md)
   * [Variables](sass/variables.md)
