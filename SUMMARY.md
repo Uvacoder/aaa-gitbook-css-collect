@@ -16,6 +16,7 @@
 * [Flexbox](flexbox/README.md)
   * [Flexbox30](flexbox/flexbox30.md)
 * [Frameworks](frameworks.md)
+* [Functions](functions.md)
 * [Generators](generators.md)
 * [Gradients](gradients.md)
 * [Grid](grid.md)
