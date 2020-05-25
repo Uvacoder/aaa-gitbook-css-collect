@@ -29,3 +29,7 @@
 | [Train your CSS skills with online games ](https://dev.to/paco_ita/train-your-css-skills-with-online-games-4ah3) | 11/18/2019 |
 | [You can create these elements without JavaScript](https://dev.to/adrianbdesigns/you-can-create-these-elements-without-javascript-525a) | 11/18/2019 |
 
+|  |  |
+| :--- | :--- |
+| [Layoutland youtube](https://www.youtube.com/channel/UC7TizprGknbDalbHplROtag) | 5/24 |
+
