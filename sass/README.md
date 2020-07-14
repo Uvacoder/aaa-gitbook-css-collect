@@ -2,6 +2,7 @@
 
 |  |  |
 | :--- | :--- |
+| [8 SCSS Best Practices to Keep in Mind](https://dev.to/liaowow/8-css-best-practices-to-keep-in-mind-4n5h) | 7/14 |
 | [The Sass Ampersand](https://css-tricks.com/the-sass-ampersand/) | 5/9 |
 | [4 Simple SASS Techniques to Clean Up Your Code](https://medium.com/@mjtweaver/css-architecture-bemcss-block-element-modifier-e642bd0f4218) | 3/12 |
 | [Controlling color with Sass color functions](https://thoughtbot.com/blog/controlling-color-with-sass-color-functions) | 1/28/2020 |
