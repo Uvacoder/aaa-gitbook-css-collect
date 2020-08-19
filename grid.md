@@ -11,10 +11,15 @@
 .container {
   display: grid;
   grid-gap: 20px; //spacing between columns and rows (tracks)
-  grid-template-columns: 200px auto 1fr; //first column 200px, second will fill, and third will take 1 fractional rows
+  grid-template-columns: 200px auto 1fr; //first column 200px, second will fill depending on content width, and third will take 1 fractional rows
   grid-template-columns: repeat(5, 100px); //will repeat 5 columns of 100px
   grid-template-rows: 200px 100px 400px; //first three rows will be respective pixel size
   grid-auto-rows: 500px; //sets the height for implicit rows
+  grid-auto-flow: row; //default
+}
+
+.item9 {
+  grid-column: span 2; //target item will span 2 columns
 }
 
 ```
