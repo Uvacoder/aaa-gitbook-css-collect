@@ -22,14 +22,15 @@
     repeat(auto-fit) // ends grid automatically at last grid item
     minmax(150px, 1fr); // set minimum and maximum sizes
     fit-content(100px) // auto fit-content with clamp max-width 100px
+  grid-template-columns: [left] 1fr [content-start] 500px [content-end] 1fr [right]; //named columns
   grid-template-rows: 200px 100px 400px; //first three rows will be respective pixel size
   grid-auto-rows: 500px; //sets the height for implicit rows
   grid-auto-flow: row; //default
-
-    grid-template-areas: 
-        "sidebar-1 content sidebar-2" 
-        "sidebar-1 content sidebar-2" 
-        "footer footer footer"
+  grid-template-areas: 
+    "sidebar-1 content sidebar-2" 
+    "sidebar-1 content sidebar-2" 
+    "footer footer footer";
+  grid-auto-flow:dense; //auto flows grid to fill out the grid holes
 }
 
 .item9 {
@@ -38,6 +39,7 @@
   grid-column-start: 2; //starts at the 2nd track column
   grid-column-end: 6; //ends at the 6th track column
   grid-column: 2 / -1; //start at 2 track and end at last column
+  grid-column: content-start; //reference to self named line from 18. grid-template-columns
 }
 
 .item1 {
