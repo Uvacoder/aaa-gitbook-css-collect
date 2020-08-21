@@ -25,6 +25,11 @@
   grid-template-rows: 200px 100px 400px; //first three rows will be respective pixel size
   grid-auto-rows: 500px; //sets the height for implicit rows
   grid-auto-flow: row; //default
+
+    grid-template-areas: 
+        "sidebar-1 content sidebar-2" 
+        "sidebar-1 content sidebar-2" 
+        "footer footer footer"
 }
 
 .item9 {
@@ -35,5 +40,23 @@
   grid-column: 2 / -1; //start at 2 track and end at last column
 }
 
+.item1 {
+    grid-area:sidebar-1;
+}
+.item2 {
+    grid-area:sidebar-2;
+}
+.footer {
+    grid-area: footer;
+}
+
+@media (max-width:768px) {
+    .container {
+          grid-template-areas: 
+            "content content content" 
+            "sidebar-1 sidebar-1 sidebar-2" 
+            "footer footer footer"
+    }
+}
 ```
 
