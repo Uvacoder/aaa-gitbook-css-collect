@@ -4,6 +4,7 @@
 
 |  | date |
 | :--- | :--- |
+| [How to get better at writing CSS](https://medium.com/@thomlom/how-to-get-better-at-writing-css-a1732c32a72f) | 8/23 |
 | [The Ultimate Guide to CSS + Cheat Sheets 📑](https://medium.com/level-up-web/the-ultimate-guide-to-css-103b0f883de3) | 8/9 |
 | [Latest CSS Features You Might Haven’t Used Yet](https://medium.com/swlh/latest-css-features-you-might-havent-used-yet-3af8227a67f3) | 8/8 |
 | [9 Useful CSS Tools for Web Developers](https://levelup.gitconnected.com/9-useful-css-tools-for-web-developers-4ae3e8747b8a) | 6/28 |
