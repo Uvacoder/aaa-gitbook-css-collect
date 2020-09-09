@@ -22,6 +22,7 @@
 * [Grid](grid.md)
 * [Hover](hover.md)
 * [Libraries](libraries.md)
+* [Lists](lists.md)
 * [Media queries](media-queries.md)
 * [Modals](modals.md)
 * [Navigation](navigation.md)
