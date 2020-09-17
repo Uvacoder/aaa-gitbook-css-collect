@@ -2,6 +2,7 @@
 
 |  |  |
 | :--- | :--- |
+| [7 Tips That Will Help You Get The Best Out Of Sass](https://medium.com/weekly-webtips/7-tips-that-will-help-you-get-the-best-out-of-sass-bafc923634ba) | 9/17 |
 | [How to use CSS variables with sass mixins](https://www.techhive.io/our-insights/how-to-use-css-variables-with-sass-mixins) | 9/14 |
 | [8 SCSS Best Practices to Keep in Mind](https://dev.to/liaowow/8-css-best-practices-to-keep-in-mind-4n5h) | 7/14 |
 | [The Sass Ampersand](https://css-tricks.com/the-sass-ampersand/) | 5/9 |
