@@ -2,6 +2,7 @@
 
 |  | start |
 | :--- | :--- |
+| [A Guide to CSS Grids for Designers: Flexbox, CSS Grid, Floats & Clears](https://blog.prototypr.io/a-guide-to-css-grids-for-designers-flexbox-css-grid-floats-clears-9487659aed92) | 9/25 |
 | [https://1linelayouts.glitch.me/](https://1linelayouts.glitch.me/) | 7/6 |
 | [Building a hexagonal grid using CSS grid](https://ninjarockstar.dev/css-hex-grids/) | 6/19 |
 | [Understanding CSS Grid: Grid Template Areas](https://www.smashingmagazine.com/2020/02/understanding-css-grid-template-areas/) | 2/19 |
