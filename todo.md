@@ -4,6 +4,7 @@
 
 |  | date |
 | :--- | :--- |
+| [State of CSS survey](https://survey.stateofjs.com/survey/state-of-css/2020/hhRnsxK2CHNLgwdhW/thanks) | 10/19 |
 | [Pure CSS Art: A Beginner’s Tale](https://blog.prototypr.io/pure-css-art-a-beginners-tale-2740ebf44199) | 8/25 |
 | [How to get better at writing CSS](https://medium.com/@thomlom/how-to-get-better-at-writing-css-a1732c32a72f) | 8/23 |
 | [The Ultimate Guide to CSS + Cheat Sheets 📑](https://medium.com/level-up-web/the-ultimate-guide-to-css-103b0f883de3) | 8/9 |
