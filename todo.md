@@ -4,6 +4,7 @@
 
 |  | date |
 | :--- | :--- |
+| [Missed Frontend Vulnerabilities \(1\): CSS is not as safe as you think!](https://dev.to/mizadmehr/missed-frontend-vulnerabilities-1-css-is-not-as-safe-as-you-think-3l64?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email) | 10/24 |
 | [State of CSS survey](https://survey.stateofjs.com/survey/state-of-css/2020/hhRnsxK2CHNLgwdhW/thanks) | 10/19 |
 | [Pure CSS Art: A Beginner’s Tale](https://blog.prototypr.io/pure-css-art-a-beginners-tale-2740ebf44199) | 8/25 |
 | [How to get better at writing CSS](https://medium.com/@thomlom/how-to-get-better-at-writing-css-a1732c32a72f) | 8/23 |
