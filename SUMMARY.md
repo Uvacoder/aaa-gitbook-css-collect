@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Pages](README.md)
+* [Accessibility](accessibility.md)
 * [Animation](animation/README.md)
   * [Fade](animation/fadein.md)
 * [Background](background.md)
