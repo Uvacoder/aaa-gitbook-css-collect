@@ -64,3 +64,8 @@
 }
 ```
 
+|  |  |  |
+| :--- | :--- | :--- |
+| [align-items](https://developer.mozilla.org/en-US/docs/Web/CSS/align-items) | stretch, center, start, end | The [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) **`align-items`** property sets the [`align-self`](https://developer.mozilla.org/en-US/docs/Web/CSS/align-self) value on all direct children as a group. In Grid Layout, it controls the alignment of items on the Block Axis within their [grid area](https://developer.mozilla.org/en-US/docs/Glossary/Grid_Areas). |
+|  |  |  |
+
