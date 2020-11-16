@@ -68,5 +68,5 @@
 | :--- | :--- | :--- |
 | [align-items](https://developer.mozilla.org/en-US/docs/Web/CSS/align-items) | stretch, center, start, end | The [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) **`align-items`** property sets the [`align-self`](https://developer.mozilla.org/en-US/docs/Web/CSS/align-self) value on all direct children as a group. In Grid Layout, it controls the alignment of items on the Block Axis within their [grid area](https://developer.mozilla.org/en-US/docs/Glossary/Grid_Areas). |
 | [grid-auto-flow](https://developer.mozilla.org/en-US/docs/Web/CSS/grid-auto-flow) | row, column, row dense | The **`grid-auto-flow`** CSS property controls how the auto-placement algorithm works, specifying exactly how auto-placed items get flowed into the grid. |
-|  |  |  |
+| [justify-items](https://developer.mozilla.org/en-US/docs/Web/CSS/justify-items) | stretch, center, start, end | The [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) **`justify-items`** property defines the default [`justify-self`](https://developer.mozilla.org/en-US/docs/Web/CSS/justify-self) for all items of the box, giving them all a default way of justifying each box along the appropriate axis. |
 
