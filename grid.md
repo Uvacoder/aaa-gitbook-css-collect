@@ -2,6 +2,7 @@
 
 |  | start |
 | :--- | :--- |
+| [A Deep Dive Into CSS Grid minmax\(\)](https://ishadeed.com/article/css-grid-minmax/) | 11/20 |
 | [grid layoutit](https://grid.layoutit.com/) | 10/16 |
 | [A Guide to CSS Grids for Designers: Flexbox, CSS Grid, Floats & Clears](https://blog.prototypr.io/a-guide-to-css-grids-for-designers-flexbox-css-grid-floats-clears-9487659aed92) | 9/25 |
 | [https://1linelayouts.glitch.me/](https://1linelayouts.glitch.me/) | 7/6 |
