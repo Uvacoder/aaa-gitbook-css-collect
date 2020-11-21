@@ -2,6 +2,7 @@
 
 |  |  |
 | :--- | :--- |
+| [How to Make an Awesome Horizontal Parallax Animation](https://dev.to/robole/how-to-make-an-awesome-horizontal-parallax-animation-3o6a?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email) | 11/21 |
 | [Additive Animations in CSS](https://danielcwilson.com/blog/2020/10/additive-css-animations/?utm_source=CSS-Weekly&utm_campaign=Issue-434&utm_medium=email) | 11/5 |
 | [https://easings.netlify.com/](https://easings.netlify.com/) | 3/4 |
 | [The ultimate guide to proper use of animation in UX](https://uxdesign.cc/the-ultimate-guide-to-proper-use-of-animation-in-ux-10bd98614fa9) | 2/26 |
