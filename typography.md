@@ -1,5 +1,9 @@
 # Typography
 
+|  |  |
+| :--- | :--- |
+| [6 Practical Tips - Typography System Creation](https://blog.prototypr.io/6-practical-tips-typography-system-creation-9909c6f3a89c) | 12/8 |
+
 ### Font-smoothing
 
 ```text
