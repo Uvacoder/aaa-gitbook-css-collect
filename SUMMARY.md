@@ -26,6 +26,7 @@
 * [Hover](hover.md)
 * [Libraries](libraries.md)
 * [Lists](lists.md)
+* [Margin](margin.md)
 * [Media queries](media-queries.md)
 * [Modals](modals.md)
 * [Navigation](navigation.md)
