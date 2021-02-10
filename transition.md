@@ -2,6 +2,7 @@
 
 |  |  |
 | :--- | :--- |
+| [An Interactive Guide to CSS Transitions](https://www.joshwcomeau.com/animation/css-transitions/) | 2/10 |
 | [How to Create a Realistic Motion Blur with CSS Transitions](https://css-tricks.com/how-to-create-a-realistic-motion-blur-with-css-transitions/) | 10/27 |
 
 ```css
