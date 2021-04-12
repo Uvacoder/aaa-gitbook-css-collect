@@ -4,6 +4,7 @@
 
 |  | date |
 | :--- | :--- |
+| [Minimal snippets for modern CSS layouts and components](https://smolcss.dev/) | 4/12 |
 | [What Makes CSS Hard To Master](https://timseverien.com/posts/2020-12-06-what-makes-css-hard-to-master/) | 12/15 |
 | [Missed Frontend Vulnerabilities \(1\): CSS is not as safe as you think!](https://dev.to/mizadmehr/missed-frontend-vulnerabilities-1-css-is-not-as-safe-as-you-think-3l64?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email) | 10/24 |
 | [State of CSS survey](https://survey.stateofjs.com/survey/state-of-css/2020/hhRnsxK2CHNLgwdhW/thanks) | 10/19 |
