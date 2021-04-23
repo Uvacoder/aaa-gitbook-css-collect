@@ -24,6 +24,7 @@
 * [Gradients](gradients.md)
 * [Grid](grid.md)
 * [Hover](hover.md)
+* [Layout](layout.md)
 * [Libraries](libraries.md)
 * [Lists](lists.md)
 * [Margin](margin.md)
