@@ -48,4 +48,5 @@
 * [Transform](transform.md)
 * [Transition](transition.md)
 * [Typography](typography.md)
+* [Variables](variables.md)
 
