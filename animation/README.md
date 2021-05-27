@@ -2,6 +2,7 @@
 
 |  |  |
 | :--- | :--- |
+| [5 Awesome CSS Animation Resources for All Web Developers](https://radiant-brushlands-42789.herokuapp.com/blog.devgenius.io/5-awesome-css-animation-resources-for-all-web-developers-70bca71a5e1e) | 5/27 |
 | [How to Make an Awesome Horizontal Parallax Animation](https://dev.to/robole/how-to-make-an-awesome-horizontal-parallax-animation-3o6a?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email) | 11/21 |
 | [Additive Animations in CSS](https://danielcwilson.com/blog/2020/10/additive-css-animations/?utm_source=CSS-Weekly&utm_campaign=Issue-434&utm_medium=email) | 11/5 |
 | [https://easings.netlify.com/](https://easings.netlify.com/) | 3/4 |
