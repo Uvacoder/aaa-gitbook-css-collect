@@ -2,6 +2,7 @@
 
 |  |  |
 | :--- | :--- |
+| [Using Performant Next-Gen Images in CSS with image-set](https://css-tricks.com/using-performant-next-gen-images-in-css-with-image-set/) | 7/2 |
 | [A Utility Class for Covering Elements](https://css-irl.info/a-utility-class-for-covering-elements/) | 12/29 |
 | [CSS Frosted glass credit card](https://dev.to/dailydevtips1/css-frosted-glass-credit-card-3lak?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email) | 12/24 |
 | [How to make semitransparent layers backgrounds without affecting the text using CSS](https://gomakethings.com/how-to-make-semitransparent-layers-backgrounds-without-affecting-the-text-using-css/) | 9/29 |
