@@ -21,7 +21,7 @@
   * [Forms](flexbox/forms.md)
   * [Flexbox30](flexbox/flexbox30.md)
 * [Frameworks](frameworks.md)
-* [Untitled](untitled.md)
+* [Fonts](typography.md)
 * [Functions](functions.md)
 * [Generators](generators.md)
 * [Gradients](gradients.md)
@@ -50,6 +50,5 @@
 * [SVG](svg.md)
 * [Transform](transform.md)
 * [Transition](transition.md)
-* [Fonts](typography.md)
 * [Variables](variables.md)
 
