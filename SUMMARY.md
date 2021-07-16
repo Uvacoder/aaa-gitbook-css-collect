@@ -16,6 +16,7 @@
   * [Card](components/card.md)
   * [Sidebar](components/sidebar.md)
 * [Container queries](container-queries.md)
+* [Display](display.md)
 * [Education](todo.md)
 * [Flexbox](flexbox/README.md)
   * [Forms](flexbox/forms.md)
