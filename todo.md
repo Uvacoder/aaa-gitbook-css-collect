@@ -4,6 +4,7 @@
 
 |  | date |
 | :--- | :--- |
+| [8 CSS Tips and Tricks to Wow You](https://radiant-brushlands-42789.herokuapp.com/betterprogramming.pub/8-css-tips-and-tricks-to-wow-you-3629175dd6e2) | 7/24 |
 | [Minimal snippets for modern CSS layouts and components](https://smolcss.dev/) | 4/12 |
 | [What Makes CSS Hard To Master](https://timseverien.com/posts/2020-12-06-what-makes-css-hard-to-master/) | 12/15 |
 | [Missed Frontend Vulnerabilities \(1\): CSS is not as safe as you think!](https://dev.to/mizadmehr/missed-frontend-vulnerabilities-1-css-is-not-as-safe-as-you-think-3l64?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email) | 10/24 |
