@@ -4,6 +4,7 @@
 
 |  | date |
 | :--- | :--- |
+| [The styleguide you pick doesn't really matter](https://gomakethings.com/the-styleguide-you-pick-doesnt-really-matter/) | 8/17 |
 | [8 CSS Tips and Tricks to Wow You](https://radiant-brushlands-42789.herokuapp.com/betterprogramming.pub/8-css-tips-and-tricks-to-wow-you-3629175dd6e2) | 7/24 |
 | [Minimal snippets for modern CSS layouts and components](https://smolcss.dev/) | 4/12 |
 | [What Makes CSS Hard To Master](https://timseverien.com/posts/2020-12-06-what-makes-css-hard-to-master/) | 12/15 |
