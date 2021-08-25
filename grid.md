@@ -2,6 +2,7 @@
 
 |  | start |
 | :--- | :--- |
+| [Why did we make CSS Grid Tooling?](https://developer.chrome.com/blog/css-grid-tooling/?utm_source=CSS-Weekly&utm_campaign=Issue-470&utm_medium=email) | 8/25 |
 | [Top 7 CSS Grid Layout Concepts With Examples](https://betterprogramming.pub/top-7-css-grid-layout-concepts-with-examples-18c85e4d0b27) | 5/10 |
 | [CSS Grid Cheat Sheet Illustrated in 2021](https://dev.to/joyshaheb/css-grid-cheat-sheet-illustrated-in-2021-1a3?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email) | 3/7 |
 | [A Deep Dive Into CSS Grid minmax\(\)](https://ishadeed.com/article/css-grid-minmax/) | 11/20 |
