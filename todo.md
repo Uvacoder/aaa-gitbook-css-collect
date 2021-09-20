@@ -4,6 +4,7 @@
 
 |  | date |
 | :--- | :--- |
+| [The reason CSS is so tricky](https://www.joshwcomeau.com/newsletter-issues/cfj-launch-01-the-reason-css-is-so-tricky/) | 9/20 |
 | [Just because you suck at CSS doesn't mean CSS sucks](https://gomakethings.com/just-because-you-suck-at-css-doesnt-mean-css-sucks/) | 8/24 |
 | [The styleguide you pick doesn't really matter](https://gomakethings.com/the-styleguide-you-pick-doesnt-really-matter/) | 8/17 |
 | [8 CSS Tips and Tricks to Wow You](https://radiant-brushlands-42789.herokuapp.com/betterprogramming.pub/8-css-tips-and-tricks-to-wow-you-3629175dd6e2) | 7/24 |
