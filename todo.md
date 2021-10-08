@@ -4,6 +4,7 @@
 
 |  | date |
 | :--- | :--- |
+| [Codier Challenges](https://codier.io/) | 10/8 |
 | [How to calculate REMs from pixels](https://typeofnan.dev/how-to-calculate-rems-from-pixels/) | 9/28 |
 | [The reason CSS is so tricky](https://www.joshwcomeau.com/newsletter-issues/cfj-launch-01-the-reason-css-is-so-tricky/) | 9/20 |
 | [Just because you suck at CSS doesn't mean CSS sucks](https://gomakethings.com/just-because-you-suck-at-css-doesnt-mean-css-sucks/) | 8/24 |
