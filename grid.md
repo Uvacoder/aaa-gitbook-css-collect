@@ -1,22 +1,22 @@
 # Grid
 
-|  | start |
-| :--- | :--- |
-| [Why did we make CSS Grid Tooling?](https://developer.chrome.com/blog/css-grid-tooling/?utm_source=CSS-Weekly&utm_campaign=Issue-470&utm_medium=email) | 8/25 |
-| [Top 7 CSS Grid Layout Concepts With Examples](https://betterprogramming.pub/top-7-css-grid-layout-concepts-with-examples-18c85e4d0b27) | 5/10 |
-| [CSS Grid Cheat Sheet Illustrated in 2021](https://dev.to/joyshaheb/css-grid-cheat-sheet-illustrated-in-2021-1a3?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email) | 3/7 |
-| [A Deep Dive Into CSS Grid minmax\(\)](https://ishadeed.com/article/css-grid-minmax/) | 11/20 |
-| [grid layoutit](https://grid.layoutit.com/) | 10/16 |
-| [A Guide to CSS Grids for Designers: Flexbox, CSS Grid, Floats & Clears](https://blog.prototypr.io/a-guide-to-css-grids-for-designers-flexbox-css-grid-floats-clears-9487659aed92) | 9/25 |
-| [https://1linelayouts.glitch.me/](https://1linelayouts.glitch.me/) | 7/6 |
-| [Building a hexagonal grid using CSS grid](https://ninjarockstar.dev/css-hex-grids/) | 6/19 |
-| [Understanding CSS Grid: Grid Template Areas](https://www.smashingmagazine.com/2020/02/understanding-css-grid-template-areas/) | 2/19 |
+| [Practical CSS Subgrid Video Tutorials](https://www.bram.us/2021/11/04/practical-css-subgrid-video-tutorials/)                                                                     | 11/12      |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| [Why did we make CSS Grid Tooling?](https://developer.chrome.com/blog/css-grid-tooling/)                                                                                           | 8/25       |
+| [Top 7 CSS Grid Layout Concepts With Examples](https://betterprogramming.pub/top-7-css-grid-layout-concepts-with-examples-18c85e4d0b27)                                            | 5/10       |
+| [CSS Grid Cheat Sheet Illustrated in 2021](https://dev.to/joyshaheb/css-grid-cheat-sheet-illustrated-in-2021-1a3)                                                                  | 3/7        |
+| [A Deep Dive Into CSS Grid minmax()](https://ishadeed.com/article/css-grid-minmax/)                                                                                                | 11/20      |
+| [grid layoutit](https://grid.layoutit.com)                                                                                                                                         | 10/16      |
+| [A Guide to CSS Grids for Designers: Flexbox, CSS Grid, Floats & Clears](https://blog.prototypr.io/a-guide-to-css-grids-for-designers-flexbox-css-grid-floats-clears-9487659aed92) | 9/25       |
+| [https://1linelayouts.glitch.me/](https://1linelayouts.glitch.me)                                                                                                                  | 7/6        |
+| [Building a hexagonal grid using CSS grid](https://ninjarockstar.dev/css-hex-grids/)                                                                                               | 6/19       |
+| [Understanding CSS Grid: Grid Template Areas](https://www.smashingmagazine.com/2020/02/understanding-css-grid-template-areas/)                                                     | 2/19       |
 | [https://medium.com/free-code-camp/things-ive-learned-about-css-grid-layout-932777c2d6d7](https://medium.com/free-code-camp/things-ive-learned-about-css-grid-layout-932777c2d6d7) | 11/22/2019 |
-| [How I use CSS Grid to Create a One-page Website](https://medium.com/swlh/how-i-use-css-grid-to-create-a-one-page-website-ffc97668d33a) | 8/14 |
-| [How to build complex layouts with CSS grid](https://gomakethings.com/how-to-build-complex-layouts-with-css-grid/?mc_cid=99b9850ca0&mc_eid=[UNIQID]) | 4/30 |
-| [An introduction to CSS Grid](https://gomakethings.com/an-introduction-to-css-grid/?mc_cid=964ca6754c&mc_eid=[UNIQID]) | 4/28 |
-| [CSS Grid Generator](https://cssgrid-generator.netlify.com/) | 3/4 |
-| [Layout land youtube](https://www.youtube.com/watch?v=FEnRpy9Xfes&list=PLbSquHt1VCf1x_-1ytlVMT0AMwADlWtc1) | 2/12 |
+| [How I use CSS Grid to Create a One-page Website](https://medium.com/swlh/how-i-use-css-grid-to-create-a-one-page-website-ffc97668d33a)                                            | 8/14       |
+| [How to build complex layouts with CSS grid](https://gomakethings.com/how-to-build-complex-layouts-with-css-grid/?mc\_cid=99b9850ca0\&mc\_eid=\[UNIQID])                           | 4/30       |
+| [An introduction to CSS Grid](https://gomakethings.com/an-introduction-to-css-grid/?mc\_cid=964ca6754c\&mc\_eid=\[UNIQID])                                                         | 4/28       |
+| [CSS Grid Generator](https://cssgrid-generator.netlify.com)                                                                                                                        | 3/4        |
+| [Layout land youtube](https://www.youtube.com/watch?v=FEnRpy9Xfes\&list=PLbSquHt1VCf1x\_-1ytlVMT0AMwADlWtc1)                                                                       | 2/12       |
 
 ```css
 .container {
@@ -68,9 +68,8 @@
 }
 ```
 
-|  |  |  |
-| :--- | :--- | :--- |
-| [align-items](https://developer.mozilla.org/en-US/docs/Web/CSS/align-items) | stretch, center, start, end | The [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) **`align-items`** property sets the [`align-self`](https://developer.mozilla.org/en-US/docs/Web/CSS/align-self) value on all direct children as a group. In Grid Layout, it controls the alignment of items on the Block Axis within their [grid area](https://developer.mozilla.org/en-US/docs/Glossary/Grid_Areas). |
-| [grid-auto-flow](https://developer.mozilla.org/en-US/docs/Web/CSS/grid-auto-flow) | row, column, row dense | The **`grid-auto-flow`** CSS property controls how the auto-placement algorithm works, specifying exactly how auto-placed items get flowed into the grid. |
-| [justify-items](https://developer.mozilla.org/en-US/docs/Web/CSS/justify-items) | stretch, center, start, end | The [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) **`justify-items`** property defines the default [`justify-self`](https://developer.mozilla.org/en-US/docs/Web/CSS/justify-self) for all items of the box, giving them all a default way of justifying each box along the appropriate axis. |
-
+|                                                                                   |                             |                                                                                                                                                                                                                                                                                                                                                                                    |
+| --------------------------------------------------------------------------------- | --------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [align-items](https://developer.mozilla.org/en-US/docs/Web/CSS/align-items)       | stretch, center, start, end | The [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) **`align-items`** property sets the [`align-self`](https://developer.mozilla.org/en-US/docs/Web/CSS/align-self) value on all direct children as a group. In Grid Layout, it controls the alignment of items on the Block Axis within their [grid area](https://developer.mozilla.org/en-US/docs/Glossary/Grid\_Areas). |
+| [grid-auto-flow](https://developer.mozilla.org/en-US/docs/Web/CSS/grid-auto-flow) | row, column, row dense      | The **`grid-auto-flow`** CSS property controls how the auto-placement algorithm works, specifying exactly how auto-placed items get flowed into the grid.                                                                                                                                                                                                                          |
+| [justify-items](https://developer.mozilla.org/en-US/docs/Web/CSS/justify-items)   | stretch, center, start, end | The [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) **`justify-items`** property defines the default [`justify-self`](https://developer.mozilla.org/en-US/docs/Web/CSS/justify-self) for all items of the box, giving them all a default way of justifying each box along the appropriate axis.                                                                            |
